@@ -3,13 +3,13 @@ Hi, I'm **Auric Ergeson** 👋
 
 A **Data Scientist** and **API enthusiast** who loves to **experiment and push boundaries in tech**. When I'm not teaching machines to think, I'm building quirky Python APIs that somehow make my home smarter (even the useless ones).
 
-- 🔭 **Currently working on:** Teaching machines to think… or at least pretend they do 🤖  
-- 🏠 **Side hustle:** Crafting crazy Python APIs that automate my life in unexpected ways  
-- 👯 **Looking to collaborate on:** Exciting projects mixing **data science**, **AI**, and creative automation 🛠️  
-- 🤝 **Looking for help with:** Challenging AI problems and experimental model architectures 🧠  
-- 🌱 **Currently learning:** Advanced deep learning, generative models, and smart home integrations 🌱  
-- 💬 **Ask me about:** Data science, API design, AI experiments, or why I built that one totally unnecessary but amazing automation 💡  
-- ⚡ **Fun fact:** I build useless models and APIs just for the thrill of seeing them work… then they somehow become essential 😎  
+- **Currently working on:** Teaching machines to think… or at least pretend they do 🤖  
+- **Side hustle:** Crafting crazy Python APIs that automate my life in unexpected ways  
+- **Looking to collaborate on:** Exciting projects mixing **data science**, **AI**, and creative automation 🛠️  
+- **Looking for help with:** Challenging AI problems and experimental model architectures 🧠  
+- **Currently learning:** Advanced deep learning, generative models, and smart home integrations 🌱  
+- **Ask me about:** Data science, API design, AI experiments, or why I built that one totally unnecessary but amazing automation 💡  
+- **Fun fact:** I build useless models and APIs just for the thrill of seeing them work… then they somehow become essential 😎  
 
 ---
 
