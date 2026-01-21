@@ -1,51 +1,70 @@
-# 💫 About Me
-Hi, I'm **Auric Ergeson** 👋  
+<h1 align="center">Auric Ergeson</h1>
+<p align="center"><strong>Data Scientist · AI Explorer · API Builder</strong></p>
 
-A **Data Scientist** and **API enthusiast** who loves to **experiment and push boundaries in tech**. When I'm not teaching machines to think, I'm building quirky Python APIs that somehow make my home smarter (even the useless ones).
-
-- **Currently working on:** Teaching machines to think… or at least pretend they do 🤖  
-- **Side hustle:** Crafting crazy Python APIs that automate my life in unexpected ways  
-- **Looking to collaborate on:** Exciting projects mixing **data science**, **AI**, and creative automation 🛠️  
-- **Looking for help with:** Challenging AI problems and experimental model architectures 🧠  
-- **Currently learning:** Advanced deep learning, generative models, and smart home integrations 🌱  
-- **Ask me about:** Data science, API design, AI experiments, or why I built that one totally unnecessary but amazing automation 💡  
-- **Fun fact:** I build useless models and APIs just for the thrill of seeing them work… then they somehow become essential 😎  
+<p align="center">
+I experiment with data, build intelligent systems, and create Python APIs that automate life —  
+sometimes unnecessarily, often effectively.
+</p>
 
 ---
 
-# 💻 Tech Stack
+## About Me
+
+- Working on machine learning and AI experimentation  
+- Learning advanced deep learning and generative models  
+- Building Python APIs for automation and smart systems  
+- Open to collaboration in data science, AI, and creative engineering  
+- Ask me about ML, API design, AI experiments, or unusual automations  
+- Fun fact: Some side projects started as jokes and became essential tools  
+
+---
+
+## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![R](https://img.shields.io/badge/r-276DC3?style=flat&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-008080?style=flat&logo=latex&logoColor=white)
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+---
+
+### Frameworks & APIs
+![FastAPI](https://img.shields.io/badge/fastapi-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net)
+
+---
 
 ### Data Science & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+---
 
 ### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DD0031?style=flat&logo=redis&logoColor=white)
+
+---
 
 ### Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
+
+---
 
 ### Design
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
+![Illustrator](https://img.shields.io/badge/adobe%20illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
+---
 
-
+<p align="center">
+Quietly building. Constantly learning.
+</p>
